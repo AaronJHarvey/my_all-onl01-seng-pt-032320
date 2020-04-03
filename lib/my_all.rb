@@ -8,5 +8,6 @@ def my_all?(collection)
   counter +=1 
 end
 
+if block_return_values
 
 end
